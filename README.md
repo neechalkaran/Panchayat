@@ -1,4 +1,4 @@
-# Panchayat
+#Tamilnadu Panchayat
 Google Apps script Code used for article creation in wikipedia
 Developed by wikipedia User:Neechalkaran 
 contact: neechalkaran (at) gmail.com 
